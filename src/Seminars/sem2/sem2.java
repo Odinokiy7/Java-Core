@@ -1,4 +1,4 @@
-package Seminars;
+package Seminars.sem2;
 
 // ПИШЕМ ИГРУ В КРЕСТИКИ - НОЛИКИ
 
